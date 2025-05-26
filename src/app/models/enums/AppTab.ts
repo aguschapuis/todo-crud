@@ -1,0 +1,7 @@
+export enum APP_TAB {
+  INFO,
+  TASKS,
+  RETURNS,
+  COMUNICATIONS,
+  FRIENDS,
+}
